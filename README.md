@@ -9,7 +9,7 @@ A GUI should pop up on your screen with a slider and other settings. Turn up or 
 
 ## Installation
 
-- Download the release from [here](https://github.com/iiDk-the-actual/ForeverHz/releases/latest)
+- Download the release from [here](https://github.com/iiDkRemastered/ForeverHz/releases/latest)
 - Drag the file `ForeverHz.dll` to your plugins folder
 - Start Gorilla Tag if needed
 
